@@ -17,8 +17,8 @@ function playMusic() {
 document.body.addEventListener("click", playMusic, { once: true });
 
 const phrases = [
-  "Are you sure?",
-  "What if I asked really nicely?",
+  "kinder joy konistha?",
+  "lekapothey veg manchuria?",
   "Pretty please",
   "With a chocolate ?",
   "What about a Burger",
